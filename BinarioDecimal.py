@@ -9,4 +9,7 @@ def Binario2Decimal(binario):
 
 
 
+
 Esto es un comentario
+Miaumiaumiaumiaumiau hola.
+

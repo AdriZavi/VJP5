@@ -8,3 +8,5 @@ str = raw_input ("Introduce el numero binario a convertir a decimal: ")
 print (DecimalBinario.Binario2Decimal(str))
 
 Esto es un comentario
+Hola miaumiaumiaumiaumiau
+
